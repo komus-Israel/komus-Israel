@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Komus_Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=komus-Israel)](https://github.com/anuraghazra/github-readme-stats)
+
