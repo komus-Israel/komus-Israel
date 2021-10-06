@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Komus_Israel GitHub stats](https://github-readme-stats.vercel.app/api?username=komus-Israel&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=komus-Israel&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 )](https://github.com/anuraghazra/github-readme-stats)
 
