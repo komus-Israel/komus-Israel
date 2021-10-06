@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komus-Israel&&langs_count=8)](https://github.com/komus-Israel/)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=komus-Israel)](https://github.com/komus-Israel/)
+
+
