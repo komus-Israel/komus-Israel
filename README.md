@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=komus-Israel&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=komus-Israel&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=My GitHub stats)
 )](https://github.com/komus-Israel/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komus-Israel&&langs_count=8)](https://github.com/komus-Israel/)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=komus-Israel)](https://github.com/komus-Israel/)
 
 
