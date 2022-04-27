@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=komus-Israel&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 )](https://github.com/komus-Israel/)
 
-![](https://komarev.com/ghpvc/?username=komus-Israel&color=green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komus-Israel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
